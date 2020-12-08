@@ -95,4 +95,5 @@ Fix Stuck on linux, install google chrome stable:
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+* [`Saweria`](https://saweria.co/donate/arimaulana)
+* [`Socialbuzz`](https://socialbuzz.com/amfcode/donate)
